@@ -21,7 +21,6 @@ const Calc = () => {
       <div ClassName="app">
         <div className="icon">
            <h1>React-Calculator</h1>
-           <p>sameer</p>
         </div>
         <div className="container">
            <form>
